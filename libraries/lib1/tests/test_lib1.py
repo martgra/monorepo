@@ -1,4 +1,4 @@
-from lib1 import __version__
+from same_name.lib1 import __version__
 
 
 def test_version():
